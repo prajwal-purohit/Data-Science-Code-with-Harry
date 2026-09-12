@@ -72,7 +72,7 @@ The course covers the full data science stack — from Python fundamentals throu
 
 ## 📎 Course Link
 
-- [The Ultimate Job Ready Data Science Course – CodeWithHarry](https://www.codewithharry.com/) <!-- replace with the exact course URL -->
+- [The Ultimate Job Ready Data Science Course – CodeWithHarry](https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course) <!-- replace with the exact course URL -->
 
 ## 📄 License / Attribution
 
