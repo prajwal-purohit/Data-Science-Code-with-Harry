@@ -18,9 +18,6 @@ The course covers the full data science stack — from Python fundamentals throu
 | 🎓 Instructor | CodeWithHarry |
 | 🗣️ Language | Hindi |
 | 📚 Lectures | 203 |
-| ⏱️ Total Duration | 33 hr 35 min |
-| 📱 Access | Mobile & Desktop (2 Years) |
-| 📜 Certificate | Yes, on completion |
 
 ## 🎯 What You'll Learn
 
